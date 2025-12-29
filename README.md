@@ -15,6 +15,15 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+### 📽️ Projects
+
+## 🔥 Project Highlights
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **Nutritionist AI** | Image-based food analysis with nutritional insights and PDF export functionality | Streamlit, Gemini Vision, Python | [[View Project](#)](https://nutritionist-sai7.streamlit.app/) |
+| **Invoice Extractor** | Custom NLP-based spell correction using edit distance and word probability models | Streamlit,Python, Gemini API | [View Project](#)] https://invoice-extractor-pr7jybpzldwmcqmkspp3cq.streamlit.app/|
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krsna1206&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
