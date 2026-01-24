@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 KRISHNA SAI ALLU /3RD Year CSE<br>🌱 I’m currently learning Quantum Computing, Exploring next-gen backend integration technologies.<br>
+🔭 KRISHNA SAI ALLU /3RD Year CSE<br>🌱 I’m currently learning Devops realted concepts, Exploring next-gen backend integration technologies.<br>
 
 
 ## 🌐 Socials:
