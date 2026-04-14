@@ -22,7 +22,7 @@
 |--------|-------------|------------|------|
 | **Nutritionist AI** | Image-based food analysis with nutritional insights and PDF export functionality | Streamlit, Gemini Vision, Python | [[View Project](#)](https://nutritionist-sai7.streamlit.app/) |
 | **Invoice Extractor** | Custom NLP-based spell correction using edit distance and word probability models | Streamlit,Python, Gemini API | [View Project](#)] https://invoice-extractor-pr7jybpzldwmcqmkspp3cq.streamlit.app/|
-| **WEATHER ASSISTANT ** |ChatBot that takes URL as input extracting content , embedding them to vector database and generating context related replies. |  LangChain + Google Gemini (gemini-2.5-flash) +Tool Calling (LangChain tools). | LINK
+| **weather assistant** |ChatBot that takes URL as input extracting content , embedding them to vector database and generating context related replies. |  LangChain + Google Gemini (gemini-2.5-flash) +Tool Calling (LangChain tools). | LINK
 | **Website RAG** | An AI weather assistant that uses a language model to fetch location and real-time weather data via APIs. |  LangChain + Google Gemini (gemini-2.5-flash) + Gemini Embeddings + FAISS Vector Database | LINK
 
 ### 🔝 Top Contributed Repo
